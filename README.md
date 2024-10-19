@@ -3,23 +3,23 @@ The CopFlix (CVRSS) project is a cinematic virtual reality streaming service des
 
  
 ## Table of Content
-1.	Requirements	1
-2.	Project Manager	2
-3.	Scope and Implementation	3
-A.	Cloud Infrastructure: Architecture Overview	4
-B.	Content Management System (CMS)	7
-C.	CineVR Headset	9
-D.	Data Analytics	10
-E.	Integration And Testing	11
-4.	Schedule	15
-5.	Cost	16
-6.	Quality	17
-7.	Risk	18
-8.	Resources	20
-9.	Communication Plan	20
-10.	Procurement Plan	21
-11.	Stakeholder Engagement Plan	21
-12.	Conclusion	22
+1.	Requirements	
+2.	Project Manager	
+3.	Scope and Implementation	
+ A.	Cloud Infrastructure: Architecture Overview	
+ B.	Content Management System (CMS)
+ C.	CineVR Headset	
+ D.	Data Analytics	
+ E.	Integration And Testing	
+4.	Schedule	
+5.	Cost	
+6.	Quality	
+7.	Risk	
+8.	Resources	
+9.	Communication Plan	
+10.	Procurement Plan	
+11.	Stakeholder Engagement Plan	
+12.	Conclusion	
  
 # COPFLIX CINE-VR PLATFORM PROJECT PLAN
 
