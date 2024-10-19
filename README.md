@@ -6,11 +6,11 @@ The CopFlix (CVRSS) project is a cinematic virtual reality streaming service des
 1.	Requirements	
 2.	Project Manager	
 3.	Scope and Implementation	
- A.	Cloud Infrastructure: Architecture Overview	
- B.	Content Management System (CMS)
- C.	CineVR Headset	
- D.	Data Analytics	
- E.	Integration And Testing	
+  A.	Cloud Infrastructure: Architecture Overview	
+  B.	Content Management System (CMS)
+  C.	CineVR Headset	
+  D.	Data Analytics	
+  E.	Integration And Testing	
 4.	Schedule	
 5.	Cost	
 6.	Quality	
